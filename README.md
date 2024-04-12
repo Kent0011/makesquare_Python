@@ -1,4 +1,4 @@
-# makesquare_Python
+# makesquare_python
 
 これは私が初めて作成した実用的なPythonプログラムです。  
 画像のアスペクト比を一括で1：1に変更できるプログラムで、今でも主にInstagramに写真をアップロードする際に使用しています。
